@@ -1,0 +1,33 @@
+@charset "utf-8";
+.my-class {
+    font-family: Soleil;
+}
+body p {
+    font-family: Soleil;
+}
+
+
+.my-container {
+    border: 2px solid #FFCD7C;
+}
+
+body h1 {
+    font-family: Soleil;
+    color: #FF9E00;
+}
+.my-container h3 {
+    font-family: Soleil;
+    font-style: italic;
+    font-variant: small-caps;
+    color: #56B8FF;
+}
+body h4 {
+    font-family: Soleil;
+    color: #FF9E00;
+}
+.my-container {
+    font-family: Soleil;
+    font-style: italic;
+    color: #000000;
+}
+
