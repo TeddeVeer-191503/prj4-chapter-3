@@ -1,9 +1,18 @@
 @charset "utf-8";
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+body {
+	background-image: url("../images/lucamichelir9RW20TrQ0Yunsplashcrop.jpg") ;
+	background-repeat: no-repeat ;
+	max-width: 100 px ;
+	
+}
+
 .my-class {
-    font-family: Soleil;
+    font-family: Montserrat;
 }
 body p {
-    font-family: Soleil;
+    font-family: Montserrat;
+	color: #FFFFFF
 }
 
 
@@ -12,22 +21,22 @@ body p {
 }
 
 body h1 {
-    font-family: Soleil;
-    color: #FF9E00;
-}
+    font-family: Montserrat;
+    color: #E18957}
+
 .my-container h3 {
-    font-family: Soleil;
+    font-family: Montserrat;
     font-style: italic;
     font-variant: small-caps;
-    color: #56B8FF;
+    color: #FFFFFF ;
 }
 body h4 {
-    font-family: Soleil;
-    color: #FF9E00;
+    font-family: Montserrat;
+    color: #FFFFFF;
 }
 .my-container {
-    font-family: Soleil;
+    font-family: Montserrat;
     font-style: italic;
-    color: #000000;
+    color: #FFFFFF;
 }
 
