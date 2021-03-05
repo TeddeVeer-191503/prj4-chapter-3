@@ -3,40 +3,93 @@
 body {
 	background-image: url("../images/lucamichelir9RW20TrQ0Yunsplashcrop.jpg") ;
 	background-repeat: no-repeat ;
-	max-width: 100 px ;
-	
+	background-size: cover;
 }
 
 .my-class {
-    font-family: Montserrat;
+    font-family: 'Montserrat', sans-serif;
 }
 body p {
-    font-family: Montserrat;
-	color: #FFFFFF
+    font-family: 'Montserrat', sans-serif;
+	color: #FFFFFF;
+	margin-left: 30px;
 }
-
 
 .my-container {
     border: 2px solid #FFCD7C;
+	padding: 40px;
+}
+
+aside {
+	font-family: 'Montserrat', sans-serif;
+	color: #ffffff;
+    border: 2px solid #FFCD7C;
+	padding: 40px;
+	margin-left: 25px;
+	width: 42%;
+	float: left;
+}
+
+section {
+	font-family: 'Montserrat', sans-serif; 
+	color: #636979;
+    border: 2px solid #FFCD7C;
+	padding: 40px;
+	margin-left: 25px;
+	margin-bottom: 200px;
+	width: 42%;
+	float: right;
+	
+}
+	
+.my-container {
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    color: #FFFFFF;
+	margin: 30px;
+	text-align: center
+	
+}
+
+container-2 {
+	font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    color: #00000;
+	margin: 30px;
+}
+
+img{ 
+	width: 241px;
+	margin-left: 30px;
+}
+
+footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #FFCD7C;
+	color: white;
+	text-align: center;
+	padding: 30px;
 }
 
 body h1 {
-    font-family: Montserrat;
-    color: #E18957}
+    font-family: 'Montserrat', sans-serif;
+    color: #636979;
+	font-size: 50px;
+	text-align: center;
+}
 
 .my-container h3 {
-    font-family: Montserrat;
+    font-family: 'Montserrat', sans-serif;
     font-style: italic;
     font-variant: small-caps;
-    color: #FFFFFF ;
+    color: #FFFFFF;
 }
 body h4 {
-    font-family: Montserrat;
+    font-family: 'Montserrat', sans-serif;
     color: #FFFFFF;
+	font-size: 25px;
+	text-align: center;
 }
-.my-container {
-    font-family: Montserrat;
-    font-style: italic;
-    color: #FFFFFF;
-}
-
