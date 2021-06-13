@@ -9,6 +9,7 @@ body {
 .my-class {
     font-family: 'Montserrat', sans-serif;
 }
+
 body p {
     font-family: 'Montserrat', sans-serif;
 	color: #FFFFFF;
@@ -47,11 +48,11 @@ section {
     font-style: italic;
     color: #FFFFFF;
 	margin: 30px;
-	text-align: center
+	text-align: center;
 	
 }
 
-container-2 {
+.container-2 {
 	font-family: 'Montserrat', sans-serif;
     font-style: italic;
     color: #000000;
@@ -78,6 +79,7 @@ body h1 {
     font-family: 'Montserrat', sans-serif;
     color: #636979;
 	font-size: 50px;
+	text-transform: capitalize;
 	text-align: center;
 }
 
