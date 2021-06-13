@@ -13,7 +13,8 @@ body {
 body p {
     font-family: 'Montserrat', sans-serif;
 	color: #FFFFFF;
-	padding: <vertical> <horizontal> 30px 30px;
+	padding-left: 30px;
+	padding-right: 30px;
 }
 
 .my-container {
