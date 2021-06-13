@@ -13,12 +13,13 @@ body {
 body p {
     font-family: 'Montserrat', sans-serif;
 	color: #FFFFFF;
-	margin-left: 30px;
+	padding: <vertical> <horizontal> 30px 30px;
 }
 
 .my-container {
     border: 2px solid #FFCD7C;
 	padding: 40px;
+	background-color: antiquewhite;	
 }
 
 aside {
